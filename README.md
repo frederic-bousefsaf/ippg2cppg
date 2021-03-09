@@ -8,7 +8,7 @@
 
 
 ## Requirements
-The codes were tested with Python 3.5/3.6 and Tensorflow + Keras frameworks. Analysis of the results was conducted under MATLAB.
+The codes were tested with Python 3.5/3.6 and Tensorflow + Keras frameworks. Results were analyzed in MATLAB.
 
 Different packages must be installed to properly run the codes : 
 - `pip install tensorflow` (or `tensorflow-gpu`)

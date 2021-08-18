@@ -30,6 +30,6 @@ Different packages must be installed to properly run the codes :
 
 **Prediction**
 
-Trained U-Net architectures [are freely available.](https://filesender.renater.fr/?s=download&token=787ebfe1-a4c7-4923-b9e7-c637108c0da7)
+Trained U-Net architectures [are freely available.](https://filesender.renater.fr/?s=download&token=787ebfe1-a4c7-4923-b9e7-c637108c0da7&lang=en)
 
-Data employed have not been publicly released but excerpts [are available.](https://filesender.renater.fr/?s=download&token=200192ef-c829-495c-ac33-89e4f59e98cd)
+Data employed have not been publicly released but excerpts [are available.](https://filesender.renater.fr/?s=download&token=200192ef-c829-495c-ac33-89e4f59e98cd&lang=en)

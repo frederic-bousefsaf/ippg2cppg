@@ -25,7 +25,7 @@ Different packages must be installed to properly run the codes :
 ## Usage
 **Training**
 
-`train and predict/train.py` includes all the procedures. The input, `data.mat` corresponds to a collection of continuous wavelet representation (size: 256×256) of iPPG and ground truth cPPG signals.
+`train and predict/train.py` includes all the procedures. The input, `data.mat`, corresponds to a collection of continuous wavelet representation (size: 256×256) of iPPG and ground truth cPPG signals (not supplied here).
 
 
 **Prediction**

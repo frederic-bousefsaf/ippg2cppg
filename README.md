@@ -36,4 +36,4 @@ Data employed have not been publicly released but excerpts [are available.](http
 
 `train and predict/predict.py` will output a `.mat` file that can be analyzed with the `results analysis/main.py` Matlab code.
 
-![Alt text](illustrations/results.png?raw=true "Results computed from the sample data")
+![Alt text](illustrations/pred.png?raw=true "Results computed from sample data")

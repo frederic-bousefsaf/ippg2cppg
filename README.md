@@ -11,7 +11,7 @@ You can also visit my [website](https://sites.google.com/view/frederic-bousefsaf
 Available soon
 
 ## Requirements
-Deep learning models have been developed and learned through Tensorflow+Keras frameworks (2.3.0) over Python 3.5/3.6 . Results were analyzed in MATLAB R2020b.
+Deep learning models have been developed and learned through Tensorflow+Keras frameworks (2.3.0) over Python 3.5/3.6 . Results were analyzed with MATLAB R2020b.
 
 Different packages must be installed to properly run the codes : 
 - `pip install tensorflow` (or `tensorflow-gpu`)

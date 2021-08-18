@@ -25,8 +25,10 @@ Different packages must be installed to properly run the codes :
 ## Usage
 **Training**
 
-`train.py` includes all the procedures. The input, `data.mat` corresponds to the CWT of size 256  256
+`train.py` includes all the procedures. The input, `data.mat` corresponds to a collection of continuous wavelet representation (size: 256×256) of iPPG and ground truth cPPG signals.
 
+
+**Prediction**
 Trained U-Net architectures [are freely available.](https://filesender.renater.fr/?s=download&token=787ebfe1-a4c7-4923-b9e7-c637108c0da7)
 
 Data employed have not been publicly released but excerpts [are available.]https://filesender.renater.fr/?s=download&token=200192ef-c829-495c-ac33-89e4f59e98cd)

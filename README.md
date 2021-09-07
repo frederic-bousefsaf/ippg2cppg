@@ -30,9 +30,9 @@ Different packages must be installed to properly run the codes :
 
 **Prediction**
 
-Trained architectures (U-Net supported by a ResNeXt101 backbone) [are freely available.](https://filesender.renater.fr/?s=download&token=787ebfe1-a4c7-4923-b9e7-c637108c0da7&lang=en)
+Trained architectures (U-Net supported by a ResNeXt101 backbone) [are freely available.](https://zenodo.org/record/5482374)
 
-The dataset employed to train the networks has not been publicly released yet but excerpts [are available.](https://filesender.renater.fr/?s=download&token=200192ef-c829-495c-ac33-89e4f59e98cd&lang=en)
+The dataset employed to train the networks has not been publicly released yet but excerpts [are available.](https://zenodo.org/record/5477689)
 
 `train and predict/predict.py` will output a `.mat` file that can be analyzed with the `results analysis/main.py` MATLAB code.
 

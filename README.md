@@ -3,7 +3,7 @@
 This repository contains the source codes related to a deep learning model dedicated to the conversion of imaging PPG signals (computed from video) into PPG signals measured by contact sensor placed on the finger or on the ear.
 
 ## Reference
-Frédéric Bousefsaf et al., **iPPG2cPPG: reconstructing contact from imaging photoplethysmographic signals using U-Net architectures**, *preprint*, 2021.
+Frédéric Bousefsaf et al., **iPPG 2 cPPG: reconstructing contact from imaging photoplethysmographic signals using U-Net architectures**, *Computers in Biology and Medicine*, 104860, https://doi.org/10.1016/j.compbiomed.2021.104860, 2021.
 
 You can also visit my [website](https://sites.google.com/view/frederic-bousefsaf) for additional information.
 

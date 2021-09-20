@@ -10,7 +10,11 @@ Frédéric Bousefsaf et al., **iPPG 2 cPPG: reconstructing contact from imaging 
 You can also visit my [website](https://sites.google.com/view/frederic-bousefsaf) for additional information.
 
 ## Scientific description
-Available soon
+Please refer to the original publication to get all the details. We propose converting imaging photoplethysmographic (iPPG) to contact PPG (cPPG) signals using their continuous wavelet transforms (CWT). The real and imaginary parts of the CWT are passed to a deep pre-trained (ResNeXt101) U-shaped architecture. The main motivation behind this work corresponds to the possibility of proposing an estimation of arterial blood pressure from video by analyzing iPPG signals. The next step towards this direction is therefore the integration of the recovered cPPG signals into AI models dedicated to the estimation of blood pressure using contact signals collected from large public databases.
+
+
+![Alt text](illustrations/overview.png?raw=true "Overview")
+
 
 ## Requirements
 Deep learning models have been developed and learned through Tensorflow+Keras frameworks (2.3.0) over Python 3.5/3.6 . Results were analyzed with MATLAB R2020b.

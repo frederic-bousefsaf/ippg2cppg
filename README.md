@@ -31,7 +31,7 @@ Different packages must be installed to properly run the codes :
 ## Usage
 **Training**
 
-`train and predict/train.py` includes all the procedures. The input, `data.mat`, corresponds to a collection of continuous wavelet representation (size: 256×256) of iPPG and ground truth cPPG signals (not supplied here). `train and predict/signal_to_cwt.py` is the MATLAB procedure dedicated to the conversion of a raw PPG signal (5 successive PPG waves) to its wavelet representation.
+`train and predict/train.py` includes all the procedures. The input, `data.mat`, corresponds to a collection of continuous wavelet representation (size: 256×256) of iPPG and ground truth cPPG signals (not supplied here). `train and predict/signal_to_cwt.m` is the MATLAB procedure dedicated to the conversion of a raw PPG signal (5 successive PPG waves) to its wavelet representation.
 
 
 **Prediction**

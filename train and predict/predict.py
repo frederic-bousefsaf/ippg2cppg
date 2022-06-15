@@ -1,6 +1,5 @@
 import numpy as np
 import tensorflow as tf
-import numpy as np
 import scipy.io
 
 from tensorflow.python.keras.optimizers import Adam
